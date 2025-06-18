@@ -3,7 +3,7 @@
 A responsive and visually appealing camping tour website built using **HTML** and **CSS**. This project was created to practice front-end web development skills and to simulate a real-world tour company landing page.
 
 ## 📷 Preview 
-> ![Website Preview]([path/to/screenshot.png](https://mhttarunno.github.io/CampingWebsite/)
+ [Website Preview](https://mhttarunno.github.io/CampingWebsite/)
 
 ## 📌 Features
 
