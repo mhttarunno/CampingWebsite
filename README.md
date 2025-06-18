@@ -1,4 +1,4 @@
-# 🌲 Camping Tour Website
+# 🌲 Camping Tour Website - TREKUP
 
 A responsive and visually appealing camping tour website built using **HTML** and **CSS**. This project was created to practice front-end web development skills and to simulate a real-world tour company landing page.
 
